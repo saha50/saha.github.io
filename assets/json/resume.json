@@ -130,22 +130,6 @@
       "amount": "$7500"
     }
   ],
-  "publications": [
-    {
-      "name": "Women’s Work and Agricultural Productivity Gaps in India",
-      "authors": ["Gulati, K.", "Saha, K.", "Lybbert, T.J."],
-      "publisher": "American Journal of Agricultural Economics",
-      "releaseDate": "Forthcoming",
-      "summary": "Examines the gendered productivity gap in Indian agriculture."
-    },
-    {
-      "name": "Women’s Land Ownership and Household Decisions: Implications for Child Health in Rural India",
-      "authors": ["Saha, K.", "Pandey, V. L.", "Dev, S. M."],
-      "publisher": "Axes of Sustainable Development and Growth in India: Essays in Honour of Professor Jyoti K. Parikh",
-      "releaseDate": "2023",
-      "summary": "Analyzes the effects of women’s land ownership on child health in rural India."
-    }
-  ],
   "working_papers": [
     {
       "name": "Strategy and Coordination in Risky Household Decisions: Evidence from Bangladesh",
