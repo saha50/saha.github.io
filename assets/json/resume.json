@@ -179,27 +179,18 @@
     }
   ],
   
-  "references": [
-    {
-      "name": "Dr. Kajal Gulati",
-      "position": "Assistant Professor",
-      "institution": "Michigan State University",
-      "email": "gulatik4@msu.edu",
-      "phone": "+1 530-400-5769"
-    },
-    {
-      "name": "Dr. Jacob Ricker-Gilbert",
-      "position": "Professor, Interim Associate Department Head",
-      "institution": "Purdue University",
-      "email": "jrickerg@purdue.edu",
-      "phone": "+1 765-494-4260"
-    },
-    {
-      "name": "Dr. Colin D. Sullivan",
-      "position": "Assistant Professor",
-      "institution": "University of Pittsburgh",
-      "email": "colindsullivan@pitt.edu",
-      "phone": "+1 312-316-3086"
-    }
-  ]
+"references": [
+  {
+    "name": "Dr. Kajal Gulati",
+    "reference": "Assistant Professor, Michigan State University – PhD Research Advisor"
+  },
+  {
+    "name": "Dr. Jacob Ricker-Gilbert",
+    "reference": "Professor, Purdue University – PhD Research Advisor & Committee Member"
+  },
+  {
+    "name": "Dr. Colin D. Sullivan",
+    "reference": "Assistant Professor, University of Pittsburgh – Teaching Mentor"
+  }
+]
 }
