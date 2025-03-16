@@ -165,10 +165,10 @@
       "authors": ["Saha, K.", "Saha, K.", "Yadav, S."]
     }
   ],
-  
+
   "skills": [
     {
-      "coding:" "STATA", "R", "Matlab", "GAMS", "RunGTAP", "Julia"
+      "coding": ["STATA", "R", "Matlab", "GAMS", "RunGTAP", "Julia"]
     }
   ],
   
