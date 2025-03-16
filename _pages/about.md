@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='#'>Affiliations:</a> <br> Contact: <a href='mailto:saha50@purdue.edu'>saha50@purdue.edu</a>"
+subtitle: "<a href='#'>Affiliations:</a> <br> Contact: <a href='mailto:saha50@purdue.edu'>saha50@purdue.edu</a> <br> LinkedIn: <a href='http://www.linkedin.com/in/koustuv-saha-71b284b6' target='_blank'>Koustuv Saha</a>"
 
 profile:
   align: right
