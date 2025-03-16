@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "<a href='#'>Affiliations:</a> <br> Contact: <a href='mailto:saha50@purdue.edu'>saha50@purdue.edu</a> <br> LinkedIn: <a href='http://www.linkedin.com/in/koustuv-saha-71b284b6' target='_blank'>Koustuv Saha</a>"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>KRAN #632</p>
+    <p>Purdue University, 403 Mitch Daniels Blvd</p>
+    <p>West Lafayette IN, 47907</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
