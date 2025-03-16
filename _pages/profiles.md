@@ -14,7 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>KRAN #632</p>
+      <p>KRAN 632</p>
       <p>123 Purdue University, 403 Mitch Daniels Blvd</p>
       <p>Your West Lafayette IN, 47907</p>
   - align: left
@@ -22,7 +22,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>KRAN #632</p>
+      <p>KRAN 632</p>
       <p>123 Purdue University, 403 Mitch Daniels Blvd</p>
       <p>Your West Lafayette IN, 47907</p>
 ---
