@@ -18,45 +18,51 @@
   },
   "work": [
     {
-      "name": "Dr. Jacob Ricker-Gilbert, Department of Agricultural Economics, Purdue University",
+      "name": "Purdue University",
       "position": "Graduate Research Assistant",
-      "supervisor": "Dr. Jacob Ricker-Gilbert",
-      "startDate": "2024",
+      "location": "West Lafayette, IN, USA",
+      "startDate": "2024-01",
       "endDate": "Present",
-      "description": [
-        "Working with Dr. Jacob Ricker-Gilbert",
-        "Research in agricultural economics focusing on market structures and policies"
+      "summary": "Conducting research in agricultural economics with a focus on market structures and policies. Working under the supervision of Dr. Jacob Ricker-Gilbert.",
+      "highlights": [
+        "Analyzing the effects of agricultural trade policies on rural labor markets.",
+        "Developing econometric models to assess productivity impacts."
       ]
     },
     {
-      "name": "Dr. Kajal Gulati, Department of Agricultural Economics, Purdue University",
+      "name": "Purdue University",
       "position": "Graduate Research Assistant",
-      "supervisor": "",
-      "startDate": "2021",
-      "endDate": "2024",
-      "description": [
-        "Worked on gender-based agricultural economic research",
-        "Analyzed intrahousehold decision-making and productivity"
+      "location": "West Lafayette, IN, USA",
+      "startDate": "2021-08",
+      "endDate": "2023-12",
+      "summary": "Researched gender-based labor market participation and economic policies. Worked under the guidance of Dr. Kajal Gulati.",
+      "highlights": [
+        "Led econometric analysis on non-tariff measures in agricultural trade.",
+        "Published findings on intrahousehold decision-making and productivity."
       ]
     },
     {
       "name": "Indira Gandhi Institute of Development Research",
       "position": "Research Associate",
-      "startDate": "2019",
-      "endDate": "2020",
-      "description": [
-        "Worked with Dr. Subrata Sarkar and Dr. Jayati Sarkar",
-        "Conducted research on economic policies and development"
+      "location": "Mumbai, India",
+      "startDate": "2019-06",
+      "endDate": "2020-07",
+      "summary": "Conducted policy research on labor markets and economic development. Collaborated with Dr. Subrata Sarkar and Dr. Jayati Sarkar.",
+      "highlights": [
+        "Worked on empirical studies addressing financial inclusion policies.",
+        "Co-authored research papers on labor market inequalities."
       ]
     },
     {
       "name": "Indira Gandhi Institute of Development Research",
       "position": "Research Assistant",
-      "startDate": "2017",
-      "endDate": "2019",
-      "description": [
-        "Worked with Dr. Subrata Sarkar",
-        "Studied financial economics and labor market behavior"
+      "location": "Mumbai, India",
+      "startDate": "2017-07",
+      "endDate": "2019-05",
+      "summary": "Engaged in economic modeling and data analysis for research projects. Worked under the supervision of Dr. Subrata Sarkar.",
+      "highlights": [
+        "Assisted in designing economic development studies.",
+        "Analyzed large-scale household survey datasets."
       ]
     }
   ],
