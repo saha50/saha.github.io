@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations: saha50@purdue.edu</a>
+subtitle: <a href="#">Affiliations:</a> <br> Contact: <a href="mailto:saha50@purdue.edu">saha50@purdue.edu</a>
 
 profile:
   align: right
