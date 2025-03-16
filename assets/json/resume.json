@@ -181,15 +181,15 @@
   
 "references": [
   {
-    "name": "Dr. Kajal Gulati",
+    "name": "<a href='https://msu-prod.dotcmscloud.com/people/kajal-gulati' target='_blank'>Dr. Kajal Gulati</a>",
     "reference": "Assistant Professor, Michigan State University – PhD Research Advisor"
   },
   {
-    "name": "Dr. Jacob Ricker-Gilbert",
+    "name": "<a href='https://ag.purdue.edu/directory/jrickerg' target='_blank'>Dr. Jacob Ricker-Gilbert</a>",
     "reference": "Professor, Purdue University – PhD Research Advisor & Committee Member"
   },
   {
-    "name": "Dr. Colin D. Sullivan",
+    "name": "<a href='https://www.colindsullivan.com/' target='_blank'>Dr. Colin D. Sullivan</a>",
     "reference": "Assistant Professor, University of Pittsburgh – Teaching Mentor"
   }
 ]
