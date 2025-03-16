@@ -21,24 +21,23 @@
       "name": "Purdue University",
       "position": "Graduate Research Assistant",
       "location": "West Lafayette, IN, USA",
-      "startDate": "2024-01",
+      "startDate": "2024",
       "endDate": "Present",
-      "summary": "Conducting research in agricultural economics with a focus on market structures and policies. Working under the supervision of Dr. Jacob Ricker-Gilbert.",
+      "summary": "Working under the supervision of Dr. Jacob Ricker-Gilbert.",
       "highlights": [
-        "Analyzing the effects of agricultural trade policies on rural labor markets.",
-        "Developing econometric models to assess productivity impacts."
+        "Description 1",
+        "Description 2"
       ]
     },
     {
       "name": "Purdue University",
       "position": "Graduate Research Assistant",
       "location": "West Lafayette, IN, USA",
-      "startDate": "2021-08",
-      "endDate": "2023-12",
-      "summary": "Researched gender-based labor market participation and economic policies. Worked under the guidance of Dr. Kajal Gulati.",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Worked under the guidance of Dr. Kajal Gulati.",
       "highlights": [
-        "Led econometric analysis on non-tariff measures in agricultural trade.",
-        "Published findings on intrahousehold decision-making and productivity."
+        "ADD"
       ]
     },
     {
@@ -47,10 +46,9 @@
       "location": "Mumbai, India",
       "startDate": "2019-06",
       "endDate": "2020-07",
-      "summary": "Conducted policy research on labor markets and economic development. Collaborated with Dr. Subrata Sarkar and Dr. Jayati Sarkar.",
+      "summary": "Collaborated with Dr. Subrata Sarkar and Dr. Jayati Sarkar.",
       "highlights": [
-        "Worked on empirical studies addressing financial inclusion policies.",
-        "Co-authored research papers on labor market inequalities."
+        "ADD"
       ]
     },
     {
@@ -59,7 +57,7 @@
       "location": "Mumbai, India",
       "startDate": "2017-07",
       "endDate": "2019-05",
-      "summary": "Engaged in economic modeling and data analysis for research projects. Worked under the supervision of Dr. Subrata Sarkar.",
+      "summary": "Worked under the supervision of Dr. Subrata Sarkar.",
       "highlights": [
         "Assisted in designing economic development studies.",
         "Analyzed large-scale household survey datasets."
@@ -74,8 +72,7 @@
       "startDate": "2021",
       "endDate": "Present",
       "description": [
-        "Focusing on gender development in agricultural economies",
-        "Investigating non-tariff measures and trade policies"
+        "ADD"
       ]
     },
     {
@@ -95,7 +92,7 @@
       "startDate": "2017",
       "endDate": "2019",
       "description": [
-        "Focus on economic policy and statistical methods"
+        "ADD"
       ]
     },
     {
@@ -105,7 +102,7 @@
       "startDate": "2011",
       "endDate": "2014",
       "description": [
-        "Specialized in microeconomics and trade theory"
+        "ADD"
       ]
     }
   ],
@@ -164,7 +161,7 @@
   {
     "name": "Research & Policy Analysis",
     "icon": "fas fa-book",
-    "keywords": ["Trade Policy", "Labor Economics", "Gender & Development"]
+    "keywords": ["Labor Economics", "Gender & Development"]
   }
 ],
   "languages": [
