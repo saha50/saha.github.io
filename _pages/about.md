@@ -1,8 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: "PhD Candidate, Agricultural Economics, Purdue University, USA</a> <br> Contact: <a href='mailto:saha50@purdue.edu'>saha50@purdue.edu</a> <br> LinkedIn: <a href='http://www.linkedin.com/in/koustuv-saha-71b284b6' target='_blank'>Koustuv Saha</a>"
+subtitle: "PhD Candidate (Expected August 2025), Agricultural Economics, Purdue University, USA <br>  
+Contact: <a href='mailto:saha50@purdue.edu'>saha50@purdue.edu</a> <br>  
+LinkedIn: <a href='http://www.linkedin.com/in/koustuv-saha-71b284b6' target='_blank'>Koustuv Saha</a>"
 
 profile:
   align: right
@@ -17,18 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Koustuv Saha is a Ph.D. Candidate in Agricultural Economics at Purdue University, specializing in gendered labor markets, intrahousehold decision-making, and agricultural productivity in developing countries. His research examines structural inequalities in rural economies, the impact of agricultural mechanization on employment, and the role of non-tariff measures in trade. He has worked as a Graduate Research Assistant at Purdue, collaborating with leading economists on policy-driven research. Proficient in econometrics and policy modeling, he applies tools like STATA, R, GAMS, and RunGTAP to analyze economic trends. His work has been recognized with the Uma Lele Prize for Best Contributed Paper on Gender and the Ludwig Kruhe Fellowship.
