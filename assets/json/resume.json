@@ -18,7 +18,7 @@
   },
   "work": [
     {
-      "name": "Purdue University",
+      "name": "Dr. Jacob Ricker-Gilbert, Department of Agricultural Economics, Purdue University",
       "position": "Graduate Research Assistant",
       "supervisor": "Dr. Jacob Ricker-Gilbert",
       "startDate": "2024",
@@ -29,9 +29,9 @@
       ]
     },
     {
-      "name": "Purdue University",
+      "name": "Dr. Kajal Gulati, Department of Agricultural Economics, Purdue University",
       "position": "Graduate Research Assistant",
-      "supervisor": "Dr. Kajal Gulati",
+      "supervisor": "",
       "startDate": "2021",
       "endDate": "2024",
       "description": [
@@ -165,13 +165,18 @@
       "authors": ["Saha, K.", "Saha, K.", "Yadav, S."]
     }
   ],
-
-  "skills": [
-    {
-      "coding": ["STATA", "R", "Matlab", "GAMS", "RunGTAP", "Julia"]
-    }
-  ],
-  
+"skills": [
+  {
+    "name": "Programming & Statistical Software",
+    "icon": "fas fa-code",
+    "keywords": ["STATA", "R", "Matlab", "GAMS", "RunGTAP", "Julia"]
+  },
+  {
+    "name": "Research & Policy Analysis",
+    "icon": "fas fa-book",
+    "keywords": ["Trade Policy", "Labor Economics", "Gender & Development"]
+  }
+],
   "languages": [
     {
       "language": "English",
