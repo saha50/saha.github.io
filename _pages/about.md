@@ -29,6 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Koustuv Saha is a Ph.D. Candidate in Agricultural Economics at Purdue University, specializing in gendered labor markets, intrahousehold decision-making, and agricultural productivity in developing countries. His research examines structural inequalities in rural economies, the impact of agricultural mechanization on employment, and the role of non-tariff measures in trade. 
+Koustuv Saha is a Ph.D. Candidate in Agricultural Economics at Purdue University, specializing in gendered labor markets, agricultural productivity, and rural development. His research examines how structural inequalities impact rural labor markets, the effects of agricultural mechanization on employment shifts, and the role of gender in household decision-making.
 
-He has worked as a Graduate Research Assistant at Purdue, collaborating with leading economists on policy-driven research. Proficient in econometrics and policy modeling, he applies tools like STATA, R, GAMS, and RunGTAP to analyze economic trends. His work has been recognized with the Uma Lele Prize for Best Contributed Paper on Gender and the Ludwig Kruhe Fellowship.
+At Purdue, he has worked as a Graduate Research Assistant, collaborating with Dr. Jacob Ricker-Gilbert and Dr. Kajal Gulati on projects analyzing labor market dynamics, agricultural transformation, and policy interventions. His work has been recognized with the Uma Lele Prize for Best Contributed Paper on Gender and the Ludwig Kruhe Fellowship.
+
+Koustuv’s research contributes to evidence-based policy design, particularly in agriculture, labor markets, and economic development, with implications for improving rural livelihoods and gender equity in farming communities.
