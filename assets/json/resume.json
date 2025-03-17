@@ -23,11 +23,7 @@
       "location": "West Lafayette, IN, USA",
       "startDate": "2024",
       "endDate": "Present",
-      "summary": "Working under the supervision of Dr. Jacob Ricker-Gilbert.",
-      "highlights": [
-        "Description 1",
-        "Description 2"
-      ]
+      "summary": "Worked under the supervision of Dr. Jacob Ricker-Gilbert."
     },
     {
       "name": "Purdue University",
@@ -35,10 +31,7 @@
       "location": "West Lafayette, IN, USA",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "Worked under the guidance of Dr. Kajal Gulati.",
-      "highlights": [
-        "ADD"
-      ]
+      "summary": "Worked under the supervision of Dr. Kajal Gulati."
     },
     {
       "name": "Indira Gandhi Institute of Development Research",
@@ -46,9 +39,7 @@
       "location": "Mumbai, India",
       "startDate": "2019-06",
       "endDate": "2020-07",
-      "summary": "Collaborated with Dr. Subrata Sarkar and Dr. Jayati Sarkar.",
-      "highlights": [
-        "ADD"
+      "summary": "Worked under the supervision of Dr. Subrata Sarkar and Dr. Jayati Sarkar."
       ]
     },
     {
@@ -57,11 +48,7 @@
       "location": "Mumbai, India",
       "startDate": "2017-07",
       "endDate": "2019-05",
-      "summary": "Worked under the supervision of Dr. Subrata Sarkar.",
-      "highlights": [
-        "Assisted in designing economic development studies.",
-        "Analyzed large-scale household survey datasets."
-      ]
+      "summary": "Worked under the supervision of Dr. Subrata Sarkar."
     }
   ],
   "education": [
@@ -90,9 +77,7 @@
       "area": "Economics",
       "studyType": "M.Sc.",
       "startDate": "2017",
-      "endDate": "2019",
-      "description": [
-        "ADD"
+      "endDate": "2019"
       ]
     },
     {
@@ -100,10 +85,7 @@
       "area": "Economics",
       "studyType": "B.Sc.",
       "startDate": "2011",
-      "endDate": "2014",
-      "description": [
-        "ADD"
-      ]
+      "endDate": "2014"
     }
   ],
   "awards": [
@@ -114,18 +96,19 @@
       "summary": "For research on women's labor market participation in agricultural economies"
     },
     {
+      "title": "Ludwig Kruhe Fellowship",
+      "date": "2024",
+      "issuer": "Purdue University",
+      "amount": "$68,766.15 USD"
+    },
+    {
       "title": "Junior Research Fellowship",
       "date": "2017",
       "awarder": "University Grants Commission, India"
     }
   ],
   "grants": [
-    {
-      "title": "Ludwig Kruhe Fellowship",
-      "date": "2024",
-      "issuer": "Purdue University",
-      "amount": "$68,766.15 USD"
-    },
+
     {
       "name": "Jim and Neta Hicks Graduate Student Small Grant Program",
       "date": "2023",
@@ -144,12 +127,12 @@
       "authors": ["Saha, K.", "Gulati, K.", "Bird, S."]
     },
     {
-      "name": "Agricultural Mechanization and Investment in Human Capital",
-      "authors": ["Saha, K.", "Gulati, K."]
-    },
-    {
       "name": "Gender Role Attitudes and Female Labor Participation: Evidence from Egypt",
       "authors": ["Saha, K.", "Saha, K.", "Yadav, S."]
+    },
+    {
+      "name": "Agricultural Mechanization and Investment in Human Capital",
+      "authors": ["Saha, K.", "Gulati, K."]
     }
   ],
 "skills": [
@@ -157,11 +140,6 @@
     "name": "Programming & Statistical Software",
     "icon": "fas fa-code",
     "keywords": ["STATA", "R", "Matlab", "GAMS", "RunGTAP", "Julia"]
-  },
-  {
-    "name": "Research & Policy Analysis",
-    "icon": "fas fa-book",
-    "keywords": ["Labor Economics", "Gender & Development"]
   }
 ],
   "languages": [
