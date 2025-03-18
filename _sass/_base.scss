@@ -871,6 +871,24 @@ footer.sticky-bottom {
   }
 }
 
+.publications h2.category-heading {
+  color: var(--global-text-color);
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 1rem;
+  margin-top: 2rem;
+  text-align: right;
+  font-weight: bold;
+}
+
+.publications ol.bibliography h2.bibliography {
+  display: none;
+}
+
+.publications ol.bibliography {
+  padding: 0;
+  margin-top: 0;
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
