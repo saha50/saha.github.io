@@ -6,7 +6,7 @@
       "email": "saha50@purdue.edu",
       "phone": "+1 765-746-9379",
       "url": "",
-      "summary": "PhD Candidate in Agricultural Economics at Purdue University, with research focused on gendered structures in labor markets, intrahousehold decision-making, and agricultural productivity in developing countries.",
+      "summary": "PhD Candidate in Agricultural Economics at Purdue University, with research focused on the role of strategic interactions and information frictions in intrahousehold decision-making, the impacts of structural transformation on the rural economy,  and gendered structures in rural labor markets.",
       "location": {
         "address": "Department of Agricultural Economics, Purdue University",
         "postalCode": "47907",
@@ -19,35 +19,31 @@
     "work": [
       {
         "name": "Purdue University",
-        "position": "Graduate Research Assistant",
+        "position": "Graduate Research Assistant to Dr. Jacob Ricker-Gilbert",
         "location": "West Lafayette, IN, USA",
         "startDate": "2024",
-        "endDate": "Present",
-        "summary": "Worked under the supervision of Dr. Jacob Ricker-Gilbert."
+        "endDate": "Present"
       },
       {
         "name": "Purdue University",
-        "position": "Graduate Research Assistant",
+        "position": "Graduate Research Assistant to Dr. Kajal Gulati",
         "location": "West Lafayette, IN, USA",
         "startDate": "2021",
-        "endDate": "2023",
-        "summary": "Worked under the supervision of Dr. Kajal Gulati."
+        "endDate": "2023"
       },
       {
         "name": "Indira Gandhi Institute of Development Research",
-        "position": "Research Associate",
+        "position": "Research Associate to Drs. Subrata and Jayati Sarkar",
         "location": "Mumbai, India",
         "startDate": "2019",
-        "endDate": "2020",
-        "summary": "Worked under the supervision of Dr. Subrata Sarkar and Dr. Jayati Sarkar."
+        "endDate": "2020"
       },
       {
         "name": "Indira Gandhi Institute of Development Research",
-        "position": "Research Assistant",
+        "position": "Research Assistant to Dr. Subrata Sarkar",
         "location": "Mumbai, India",
         "startDate": "2017",
-        "endDate": "2019",
-        "summary": "Worked under the supervision of Dr. Subrata Sarkar."
+        "endDate": "2019"
       }
     ],
     "education": [
@@ -66,10 +62,7 @@
         "area": "Development Studies",
         "studyType": "M.Phil.",
         "startDate": "2017",
-        "endDate": "2019",
-        "description": [
-          "Research in economic development and labor markets"
-        ]
+        "endDate": "2019"
       },
       {
         "institution": "University of Calcutta",
@@ -96,7 +89,7 @@
       {
         "title": "Ludwig Kruhe Fellowship",
         "date": "2024",
-        "issuer": "Purdue University",
+        "awarder": "Purdue University",
         "amount": "$68,766.15 USD"
       },
       {
@@ -110,27 +103,8 @@
       {
         "name": "Jim and Neta Hicks Graduate Student Small Grant Program",
         "date": "2023",
-        "issuer": "Purdue University",
+        "awarder": "Purdue University",
         "amount": "$7500"
-      }
-    ],
-    "publications": [
-      {
-        "name": "Strategy and Coordination in Risky Household Decisions: Evidence from Bangladesh",
-        "authors": ["Saha, K."],
-        "note": "Job Market Paper"
-      },
-      {
-        "name": "Agricultural Mechanization and Gendered Structural Transformation in India",
-        "authors": ["Saha, K.", "Gulati, K.", "Bird, S."]
-      },
-      {
-        "name": "Gender Role Attitudes and Female Labor Participation: Evidence from Egypt",
-        "authors": ["Saha, K.", "Saha, K.", "Yadav, S."]
-      },
-      {
-        "name": "Agricultural Mechanization and Investment in Human Capital",
-        "authors": ["Saha, K.", "Gulati, K."]
       }
     ],
   "skills": [
@@ -157,15 +131,15 @@
   "references": [
     {
       "name": "<a href='https://msu-prod.dotcmscloud.com/people/kajal-gulati' target='_blank'>Dr. Kajal Gulati</a>",
-      "reference": "Assistant Professor, Michigan State University – PhD Research Advisor"
+      "reference": "Assistant Professor, Michigan State University – Ph.D. Co-chair"
     },
     {
       "name": "<a href='https://ag.purdue.edu/directory/jrickerg' target='_blank'>Dr. Jacob Ricker-Gilbert</a>",
-      "reference": "Professor, Purdue University – PhD Research Advisor & Committee Member"
+      "reference": "Interim Associate Department Head & Professor, Purdue University – Ph.D. Co-chair"
     },
     {
       "name": "<a href='https://www.colindsullivan.com/' target='_blank'>Dr. Colin D. Sullivan</a>",
-      "reference": "Assistant Professor, University of Pittsburgh – Teaching Mentor"
+      "reference": "Assistant Professor, University of Pittsburgh – Ph.D. Committee member"
     }
   ]
 }
